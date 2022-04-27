@@ -108,12 +108,6 @@ function App() {
           © Copyright - <a
             target="_blank"
             className="text-reset fw-bold text-decoration-none"
-            href="https://vk.com/sleeeeepyy"
-          >
-            Sleeeepy
-          </a> - <a
-            target="_blank"
-            className="text-reset fw-bold text-decoration-none"
             href="https://github.com/Sleeeepy7"
           >
             Sleeeepy
