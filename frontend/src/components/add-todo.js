@@ -1,6 +1,6 @@
 import React from 'react';
 
-function AddToDo() {
+function AddTodo() {
     return (
         <div className="App">
             Add ToDo
@@ -8,4 +8,4 @@ function AddToDo() {
     );
 }
 
-export default AddToDo;
+export default AddTodo;
